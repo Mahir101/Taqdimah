@@ -116,7 +116,7 @@ flowchart TB
         L5["Beneficial Coordination"]
         L6[Messaging]
         L7[Light Coordination Tools]
-        L8[Future: Waqf & Charity Flows]
+        L8["Future: Waqf & Charity Flows"]
     end
     L1 --> L2 --> L5
     L3 --> L2

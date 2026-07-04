@@ -397,7 +397,7 @@ flowchart TD
     E --> F[Receives first free lead]
     F --> G{Value proven?}
     G -->|Yes| H[Upgrades Pro]
-    G -->|No| I[Churn risk : outreach]
+    G -->|No| I["Churn risk : outreach"]
     H --> J[Featured upsell]
 ```
 

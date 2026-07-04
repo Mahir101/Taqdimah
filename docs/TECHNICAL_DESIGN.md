@@ -20,7 +20,7 @@ flowchart TB
     end
 
     subgraph Edge["Vercel Edge"]
-        MW[Middleware: auth, locale, rate limit]
+        MW["Middleware: auth, locale, rate limit"]
         CDN[Static assets]
     end
 
