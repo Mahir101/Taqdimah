@@ -28,11 +28,11 @@ flowchart TB
     end
 
     subgraph PLATFORM["What Taqdimah provides"]
-        PL1[Discovery : find vendors]
-        PL2[Trust : verification + reviews]
-        PL3[Leads : customer introductions]
-        PL4[Tools : vendor dashboard]
-        PL5[Reach : SEO + ecosystem marketing]
+        PL1["Discovery : find vendors"]
+        PL2["Trust : verification + reviews"]
+        PL3["Leads : customer introductions"]
+        PL4["Tools : vendor dashboard"]
+        PL5["Reach : SEO + ecosystem marketing"]
     end
 
     CUSTOMERS --> PLATFORM

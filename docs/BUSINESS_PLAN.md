@@ -92,10 +92,10 @@ flowchart TB
     end
 
     subgraph ValueProp["Value Propositions"]
-        V1[Consumers: one trusted search]
-        V2[Vendors: inbound leads]
-        V3[Institutions: community visibility]
-        V4[Ummah: halal-aligned discovery]
+        V1["Consumers: one trusted search"]
+        V2["Vendors: inbound leads"]
+        V3["Institutions: community visibility"]
+        V4["Ummah: halal-aligned discovery"]
     end
 
     subgraph CustomerSegments["Customer Segments"]

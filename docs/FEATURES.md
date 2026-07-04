@@ -26,7 +26,7 @@ flowchart TB
 
     subgraph Platform["Platform Core"]
         Identity[Identity & Auth]
-        TrustEngine[Trust Engine (L0-L4)]
+        TrustEngine["Trust Engine (L0-L4)"]
         Notify[Notifications]
         Admin[Admin + Scholar Review]
     end
