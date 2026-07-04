@@ -1,7 +1,7 @@
-# Taqdimah : Sustenance Model — Workers Sustaining the Pure Gift to the Khalifah
+# Taqdimah : Sustenance Model - Workers Sustaining the Pure Gift to the Khalifah
 
 **Version:** 1.1 (Reframed)  
-**Core Identity:** A gift (taqdimah) for the betterment of society — **only what is good for the Ummah** — offered in service to the Khalifah and the Ummah.  
+**Core Identity:** A gift (taqdimah) for the betterment of society - **only what is good for the Ummah** - offered in service to the Khalifah and the Ummah.  
 **Market entry:** Bangladesh → Global Muslim communities  
 
 **Strict rule:** We do not facilitate, promote, or build anything that is not beneficial for the Ummah.
@@ -10,9 +10,9 @@
 
 ## 1. Executive Summary
 
-Taqdimah is a **gift** to the Khalifah for the islah (betterment and reform) of society. It only provides trusted discovery and coordination for things that are genuinely good and beneficial — dawah, knowledge, community strength, family, and essential services that help the Ummah live with dignity and focus on deen.
+Taqdimah is a **gift** to the Khalifah for the islah (betterment and reform) of society. It only provides trusted discovery and coordination for things that are genuinely good and beneficial - dawah, knowledge, community strength, family, and essential services that help the Ummah live with dignity and focus on deen.
 
-The people who build, verify, operate, and improve this pure gift — the workers and team — require fair compensation to sustain their dedication. Any mechanisms exist only to keep the workers able to serve the Ummah with excellence and integrity.
+The people who build, verify, operate, and improve this pure gift - the workers and team - require fair compensation to sustain their dedication. Any mechanisms exist only to keep the workers able to serve the Ummah with excellence and integrity.
 
 **Core principle:**
 

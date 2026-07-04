@@ -1,10 +1,10 @@
-# Taqdimah — Dawah & Islah Ideas
+# Taqdimah - Dawah & Islah Ideas
 ## Only What Is Good and Beneficial for the Ummah
 
-**Gift to the Khalifah for societal islah** — we only develop and surface what strengthens the Ummah.
+**Gift to the Khalifah for societal islah** - we only develop and surface what strengthens the Ummah.
 
 **Purpose of this document:**  
-Capture ideas **only for what is good and beneficial for the Ummah** — dawah (calling to Allah and good), Islamic education, tarbiyah, community strengthening, moral reform, family, charity, and essential services that help Muslims live with dignity and focus on their deen.
+Capture ideas **only for what is good and beneficial for the Ummah** - dawah (calling to Allah and good), Islamic education, tarbiyah, community strengthening, moral reform, family, charity, and essential services that help Muslims live with dignity and focus on their deen.
 
 Nothing is included that weakens iman, promotes unnecessary dunya, or is not clearly a net positive for the Ummah.
 
@@ -16,17 +16,17 @@ Taqdimah is a **gift** presented to the Khalifah for societal islah. We only put
 
 **Overarching rule:** We only develop and surface things that are clearly good and beneficial for the Ummah. 
 
-If there is any doubt whether it strengthens iman, knowledge, family, community, or dignified halal living — it does not belong in Taqdimah.
+If there is any doubt whether it strengthens iman, knowledge, family, community, or dignified halal living - it does not belong in Taqdimah.
 
 We will actively reject or remove anything that is not a net positive.
 
-1. **Verification first** — Especially for scholars, da'ees, content creators, and institutions. L4 Islamic verification is non-negotiable for religious guidance.
-2. **Adab & humility** — Language, UI, and flows must reflect Islamic manners. No arrogance, no fitnah.
-3. **Facilitation, not authority** — Taqdimah connects. It does not issue fatwas or replace qualified local scholars.
-4. **Accessibility** — Bengali + English. Mobile-first. Free or very low barrier for seekers of knowledge.
-5. **Transparency** — Every contributor's verification status is visible.
-6. **Barakah focus** — Prioritize features that increase iman, good deeds, and community bonds.
-7. **Sustainability alignment** — Dawah tools are preferably supported by waqf, institutions, or voluntary means. We avoid anything that commercializes pure dawah.
+1. **Verification first** - Especially for scholars, da'ees, content creators, and institutions. L4 Islamic verification is non-negotiable for religious guidance.
+2. **Adab & humility** - Language, UI, and flows must reflect Islamic manners. No arrogance, no fitnah.
+3. **Facilitation, not authority** - Taqdimah connects. It does not issue fatwas or replace qualified local scholars.
+4. **Accessibility** - Bengali + English. Mobile-first. Free or very low barrier for seekers of knowledge.
+5. **Transparency** - Every contributor's verification status is visible.
+6. **Barakah focus** - Prioritize features that increase iman, good deeds, and community bonds.
+7. **Sustainability alignment** - Dawah tools are preferably supported by waqf, institutions, or voluntary means. We avoid anything that commercializes pure dawah.
 
 ---
 
@@ -128,7 +128,7 @@ We will actively reject or remove anything that is not a net positive.
   - Waqf project visibility (building masjids, schools, water wells).
 
 - **Skill-Based Volunteering**
-  - "I am a graphic designer — I want to help dawah organizations 5 hours/week."
+  - "I am a graphic designer - I want to help dawah organizations 5 hours/week."
   - Matching to verified institutions needing help.
 
 ---
@@ -153,7 +153,7 @@ These make the "gift to the Khalifah" concrete:
 ## 8. Technical & Experience Ideas
 
 - Intent parser trained on deen + dunya queries ("I want to start praying tahajjud", "Need halal mortgage advice", "My friend wants to accept Islam").
-- "One click for barakah" — quick actions like "Find nearest masjid with Maghrib program tonight".
+- "One click for barakah" - quick actions like "Find nearest masjid with Maghrib program tonight".
 - Integration points with masjid apps or existing Islamic tools (read-only where possible).
 - Beautiful, calm, adab-respecting UI (avoid flashy ads in dawah sections).
 
@@ -196,13 +196,13 @@ These make the "gift to the Khalifah" concrete:
 **Remember the mission:**
 
 Taqdimah is not here to become the biggest "Islamic app."  
-It is a sincere offering — a tool placed in service of the Ummah and presented to the Khalifah — so that society becomes more just, more knowledgeable, more connected in good, and more pleasing to Allah.
+It is a sincere offering - a tool placed in service of the Ummah and presented to the Khalifah - so that society becomes more just, more knowledgeable, more connected in good, and more pleasing to Allah.
 
 May Allah accept this effort and make it a means of barakah and islah. Ameen.
 
 ---
 
 Related documents:
-- [FEATURES.md](./FEATURES.md) — Full feature specs with acceptance criteria
-- [PRD.md](./PRD.md) — Strategic vision
-- [TRUST_SYSTEM.md](./TRUST_SYSTEM.md) — Especially L4 Islamic verification
+- [FEATURES.md](./FEATURES.md) - Full feature specs with acceptance criteria
+- [PRD.md](./PRD.md) - Strategic vision
+- [TRUST_SYSTEM.md](./TRUST_SYSTEM.md) - Especially L4 Islamic verification

@@ -1,6 +1,6 @@
 # Taqdimah : Product Requirements Document (PRD)
 
-**Version:** 1.1 — Reframed as Gift  
+**Version:** 1.1 - Reframed as Gift  
 **Status:** Strategic direction for a public good offering  
 **Last updated:** July 2026
 
@@ -8,7 +8,7 @@
 
 ## 1. Executive Summary
 
-**Taqdimah (التقديمة)** is a **gift** — an offering presented to the Khalifah for the betterment (islah) of society.
+**Taqdimah (التقديمة)** is a **gift** - an offering presented to the Khalifah for the betterment (islah) of society.
 
 It is long-term digital infrastructure for the Muslim Ummah, built with the intention of strengthening society under righteous leadership. While the core mission is service and societal reform, the workers and team who build and operate Taqdimah are sustained through fair, transparent mechanisms so they can dedicate themselves fully to this gift.
 
@@ -25,7 +25,7 @@ into **one connected network of trust and benefit**.
 
 > Taqdimah is a gift to the Khalifah : digital infrastructure that only facilitates what is genuinely good and beneficial for the Ummah. Offered for the islah (betterment) of society in both deen and dignified life. Workers who maintain the purity of this gift are supported fairly.
 
-**MVP goal (6 months):** Deliver foundational infrastructure in 2–3 Bangladesh cities with 500+ verified participants who offer things that are good for the Ummah, strong search, connection tools, and early dawah/education features. Success is measured by real benefit brought to the Ummah — increased access to beneficial knowledge, trusted essential services, and community strength.
+**MVP goal (6 months):** Deliver foundational infrastructure in 2–3 Bangladesh cities with 500+ verified participants who offer things that are good for the Ummah, strong search, connection tools, and early dawah/education features. Success is measured by real benefit brought to the Ummah - increased access to beneficial knowledge, trusted essential services, and community strength.
 
 ---
 
@@ -63,7 +63,7 @@ into **one connected network of trust and benefit**.
 
 ## 3. Vision & Mission
 
-**Vision:** To be accepted as a sincere gift (taqdimah) to the Khalifah — a means by which society is strengthened through trust, knowledge, dawah, and beneficial coordination, so the Ummah may flourish in both dunya and deen.
+**Vision:** To be accepted as a sincere gift (taqdimah) to the Khalifah - a means by which society is strengthened through trust, knowledge, dawah, and beneficial coordination, so the Ummah may flourish in both dunya and deen.
 
 **Mission:** Build and operate digital infrastructure as an amanah. Connect the Ummah to trusted and beneficial people, services, knowledge, and institutions. Preserve independence of participants. Enable fair compensation for the workers who maintain this gift so they can serve the whole Ummah effectively. Prioritize islah (reform and betterment) in all features.
 
@@ -77,7 +77,7 @@ into **one connected network of trust and benefit**.
 
 **What Taqdimah IS:**
 
-- A gift/offering (taqdimah) to the Khalifah and the Ummah — **only of what is good**
+- A gift/offering (taqdimah) to the Khalifah and the Ummah - **only of what is good**
 - Discovery, verification, and trust layer (amanah of only beneficial things)
 - Coordination and knowledge infrastructure for dawah, tarbiyah, family, community, and essential dignified needs
 - A platform that sustains its workers fairly while keeping the offering pure
@@ -143,15 +143,15 @@ into **one connected network of trust and benefit**.
 
 ---
 
-## 6. Product Principles — Only What Is Good for the Ummah
+## 6. Product Principles - Only What Is Good for the Ummah
 
 1. **Only beneficial things** : Taqdimah will **never** facilitate, list, or promote anything that is not genuinely good and beneficial for the Ummah. No consumerism for its own sake, no haram, no doubtful, no things that weaken faith or community.
 2. **Amanah before scale** : Verification, truthfulness, and clear benefit to the Ummah come before any growth.
 3. **Independence & barakah** : Participants (scholars, masjids, beneficial providers) keep their identity and direct relationships.
-4. **Deen + dignified dunya** : Prioritize knowledge, dawah, tarbiyah, family, and community — while also enabling the essential trusted services Muslims need to live honorably.
+4. **Deen + dignified dunya** : Prioritize knowledge, dawah, tarbiyah, family, and community - while also enabling the essential trusted services Muslims need to live honorably.
 5. **Workers sustained fairly, without tainting the gift** : Any support for the team comes second to the purity of the offering.
 6. **Transparency & minimal burden** : Everything is clear. We avoid burdening the needy or small community efforts.
-7. **Network effects for real islah** : Every connection should increase good — in iman, knowledge, family strength, or community capability.
+7. **Network effects for real islah** : Every connection should increase good - in iman, knowledge, family strength, or community capability.
 
 ---
 
@@ -248,7 +248,7 @@ flowchart LR
 
 ---
 
-## 9. Category Taxonomy — Only Beneficial for the Ummah (Seed)
+## 9. Category Taxonomy - Only Beneficial for the Ummah (Seed)
 
 We only include categories and providers that clearly support a strong, faithful, and dignified Ummah life. No frivolous or potentially harmful offerings.
 
@@ -297,7 +297,7 @@ Anything that does not clearly uplift the Ummah in deen or dignified dunya will 
 
 ---
 
-## 11. Success Metrics — Impact for the Ummah & the Khalifah + Worker Sustainability
+## 11. Success Metrics - Impact for the Ummah & the Khalifah + Worker Sustainability
 
 ### 11.1 North star metrics (dual)
 
@@ -359,7 +359,7 @@ Anything that does not clearly uplift the Ummah in deen or dignified dunya will 
 
 ```mermaid
 gantt
-    title Taqdimah — Delivery of the Gift
+    title Taqdimah - Delivery of the Gift
     dateFormat YYYY-MM
     section Phase 1 : Foundation of the Offering (MVP)
     Trusted Directory + Search + Profiles     :2026-07, 3M

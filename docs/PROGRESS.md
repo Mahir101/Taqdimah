@@ -12,7 +12,7 @@
 | PRD.md | 1.0 | Complete (strategic) |
 | PRD-TECHNICAL.md | 2.0 | Complete (engineering source of truth) |
 | FEATURES.md | 1.1 | Expanded with Dawah & Islah features |
-| DAWAH_AND_ISLAH_IDEAS.md | 1.0 | New — rich dawah/reform ideas written |
+| DAWAH_AND_ISLAH_IDEAS.md | 1.0 | New - rich dawah/reform ideas written |
 | SPECIFICATIONS.md | 1.0 | Complete |
 | TECHNICAL_DESIGN.md | 1.0 | Complete |
 | DATA_MODEL.md | 1.0 | Complete |

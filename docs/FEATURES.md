@@ -93,7 +93,7 @@ flowchart TB
 
 **Description:** Hierarchical categories for all supply types including Islamic ecosystem.
 
-**Structure — Only what is good and beneficial for the Ummah:**
+**Structure - Only what is good and beneficial for the Ummah:**
 ```
 Level 1: Essential Services for Dignified Muslim Life
   Level 2: Home Maintenance & Repair (electricians, plumbers, basic builders)
@@ -340,7 +340,7 @@ In return they may receive better tools (more connections, simple analytics). Th
 - Always secondary to trust score and verification level.
 - Never allows money to override what is genuinely best for the person seeking help.
 
-Any such mechanism must itself be good for the Ummah — it helps sustain the people who keep the gift alive so everyone benefits.
+Any such mechanism must itself be good for the Ummah - it helps sustain the people who keep the gift alive so everyone benefits.
 
 ### F-024 : Institution Profiles
 
@@ -361,11 +361,11 @@ Any such mechanism must itself be good for the Ummah — it helps sustain the pe
 
 ---
 
-## Dawah, Education & Islah Features (Core to the Gift — Only Beneficial Things)
+## Dawah, Education & Islah Features (Core to the Gift - Only Beneficial Things)
 
 These features directly support the mission of Taqdimah as a gift to the Khalifah for the betterment of the Ummah. 
 
-**Strict rule:** We only build and include features and content that are clearly good for the Ummah — that increase iman, knowledge, family strength, community bonds, or dignified living in a halal way. Nothing else is put out.
+**Strict rule:** We only build and include features and content that are clearly good for the Ummah - that increase iman, knowledge, family strength, community bonds, or dignified living in a halal way. Nothing else is put out.
 
 ### F-D01 : Verified Scholar & Da'ee Directory
 

@@ -1,10 +1,10 @@
 # Taqdimah : A Gift to the Khalifah for the Betterment of Society
 
-> **Master document for founders, engineers, leaders, and AI agents.**
+> **Master document for founders, engineers, leaders.**
 > Read this file first, then follow the reading order below.
 
-**Taqdimah (التقديمة)** — An offering. A gift.  
-**Presented to the Khalifah** — for the islah (betterment and reform) of society.
+**Taqdimah (التقديمة)** - An offering. A gift.  
+**Presented to the Khalifah** - for the islah (betterment and reform) of society.
 
 **Launch focus:** Bangladesh → Global Muslim communities  
 **Nature:** A gift for societal betterment, sustained so the workers serving the Ummah can be compensated fairly. Primary mission is public good and islah, not profit maximization.  
@@ -18,16 +18,16 @@
 Taqdimah is **not** a commercial marketplace chasing profit.  
 Taqdimah is **not** a super app extracting value from the Ummah.
 
-**Taqdimah is a gift** — a digital amanah (trust) offered to righteous leadership (the Khalifah) and the Ummah, to strengthen society through trusted discovery of **only what is good and beneficial**, verified relationships, and halal coordination.
+**Taqdimah is a gift** - a digital amanah (trust) offered to righteous leadership (the Khalifah) and the Ummah, to strengthen society through trusted discovery of **only what is good and beneficial**, verified relationships, and halal coordination.
 
-We only facilitate connections to things, people, knowledge, and services that are genuinely good for the Ummah — that help Muslims live with dignity, strengthen their faith, families, and communities, and contribute to societal reform (islah).
+We only facilitate connections to things, people, knowledge, and services that are genuinely good for the Ummah - that help Muslims live with dignity, strengthen their faith, families, and communities, and contribute to societal reform (islah).
 
 It connects scholars, da'ees, teachers, mosques, beneficial professionals, institutions, and providers of essential halal goods and services into one network of **trust and barakah**.
 
 > When the Ummah needs something beneficial and trustworthy for their deen or dignified life: **"Open Taqdimah."**
 
-**Purity Filter — Non-negotiable:**  
-Taqdimah will only ever facilitate, list, or promote what is genuinely good and beneficial for the Ummah. We do not put out anything else. This filter applies to services, knowledge, providers, content, campaigns — everything.
+**Purity Filter - Non-negotiable:**  
+Taqdimah will only ever facilitate, list, or promote what is genuinely good and beneficial for the Ummah. We do not put out anything else. This filter applies to services, knowledge, providers, content, campaigns - everything.
 
 Taqdimah exists purely to serve the betterment of society. It only surfaces what uplifts the Ummah. Any sustainability for the workers must be transparent, minimal in impact on users, and never compromise the purity of this offering.
 
@@ -108,12 +108,12 @@ flowchart LR
 
 ```mermaid
 flowchart TB
-    subgraph Layers["Taqdimah — Gift for Societal Islah"]
+    subgraph Layers["Taqdimah - Gift for Societal Islah"]
         L1[Identity & Amanah]
         L2[Search & Discovery]
         L3[Trust & Verification]
         L4[Reputation & Barakah]
-        L5[Coordination (leads, connections)]
+        L5["Beneficial Coordination"]
         L6[Messaging]
         L7[Light Coordination Tools]
         L8[Future: Waqf & Charity Flows]
@@ -144,7 +144,7 @@ This flywheel serves the Khalifah's responsibility and the Ummah's welfare.
 
 Taqdimah is fundamentally **a gift (taqdimah)** presented to the Khalifah for the betterment (islah) of society and service to the whole Ummah.
 
-At the same time, the people who work to build, maintain, verify, and improve this gift must be supported. Fair compensation and modest profit for the workers and operating team is not only allowed — it is necessary so that the gift can continue and grow in quality for the benefit of the Ummah.
+At the same time, the people who work to build, maintain, verify, and improve this gift must be supported. Fair compensation and modest profit for the workers and operating team is not only allowed - it is necessary so that the gift can continue and grow in quality for the benefit of the Ummah.
 
 **Guiding principles for any profit/revenue:**
 - It primarily sustains and rewards the workers doing the actual work.
@@ -160,7 +160,7 @@ Acceptable approaches (examples):
 - Institutional support, grants, or partnerships with those who benefit from a stronger Ummah network.
 - Voluntary contributions from those who find great benefit.
 
-The goal is a self-sustaining operation where the team can focus on serving the Ummah and the Khalifah's responsibility of societal improvement — without the platform becoming just another money-making app.
+The goal is a self-sustaining operation where the team can focus on serving the Ummah and the Khalifah's responsibility of societal improvement - without the platform becoming just another money-making app.
 
 See [docs/BUSINESS_PLAN.md](./docs/BUSINESS_PLAN.md) for the updated sustenance model.
 
@@ -169,7 +169,7 @@ See [docs/BUSINESS_PLAN.md](./docs/BUSINESS_PLAN.md) for the updated sustenance 
 ## Agent Copy-Paste Prompt
 
 ```
-You are the senior engineering agent for Taqdimah — a gift (taqdimah) to the Khalifah for the betterment of society.
+You are the senior engineering agent for Taqdimah - a gift (taqdimah) to the Khalifah for the betterment of society.
 
 Read in order:
   1. Taqdimah/README.md
@@ -182,7 +182,7 @@ Read in order:
   8. Taqdimah/docs/TASKS.md
 
 Product: A gift (taqdimah) to the Khalifah for the betterment of society. 
-We only facilitate what is good and beneficial for the Ummah — dawah, knowledge, tarbiyah, masjid empowerment, family strength, community coordination, and essential trusted services that help Muslims live with dignity and focus on deen.
+We only facilitate what is good and beneficial for the Ummah - dawah, knowledge, tarbiyah, masjid empowerment, family strength, community coordination, and essential trusted services that help Muslims live with dignity and focus on deen.
 Discovery + trust + knowledge layers. Workers are sustained fairly so the gift remains excellent and pure. Participants stay independent. Taqdimah holds the amanah of only promoting good.
 
 Rules:
@@ -194,12 +194,11 @@ Rules:
 - Sustainability for workers must be fair, transparent, and never taint the purity of the offering. Strong Shariah guardrails always.
 - Heavily prioritize dawah, scholars, masjids, education, revert support, family islah, and beneficial knowledge. Practical services only when they are essential and good.
 
-Stack: Next.js 15, Supabase, Vercel, OpenAI mini for intent.
 ```
 
 ---
 
-## MVP Scope (6 months) — Delivering the Gift
+## MVP Scope (6 months) - Delivering the Gift
 
 - Natural language search (BN + EN)
 - 500+ verified participants (vendors, professionals, institutions, mosques) in Dhaka, Chattogram, Sylhet
@@ -210,7 +209,7 @@ Stack: Next.js 15, Supabase, Vercel, OpenAI mini for intent.
 
 ---
 
-**Taqdimah is an offering (taqdimah) — a gift to the Khalifah for the betterment of society.**
+**Taqdimah is an offering (taqdimah) - a gift to the Khalifah for the betterment of society.**
 
 May Allah make it accepted and beneficial. Ameen.
 
