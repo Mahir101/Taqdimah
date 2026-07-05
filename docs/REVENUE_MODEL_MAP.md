@@ -505,13 +505,13 @@ flowchart TB
 
 ```mermaid
 quadrantChart
-    title Revenue Model Positioning
-    x-axis Low Take Rate --> High Take Rate
-    y-axis Low Trust --> High Trust
-    quadrant-1 Premium trusted marketplace
-    quadrant-2 High fee low trust : avoid
-    quadrant-3 Low fee commodity
-    quadrant-4 Trust leader fair fees : Taqdimah target
+    title "Revenue Model Positioning"
+    x-axis "Low Take Rate" --> "High Take Rate"
+    y-axis "Low Trust" --> "High Trust"
+    quadrant-1 "Premium trusted marketplace"
+    quadrant-2 "High fee low trust - avoid"
+    quadrant-3 "Low fee commodity"
+    quadrant-4 "Trust leader fair fees - Taqdimah target"
     Bikroy: [0.2, 0.25]
     Sheba.xyz: [0.45, 0.55]
     Facebook Groups: [0.05, 0.15]
