@@ -1,14 +1,14 @@
 # Taqdimah - Dawah & Islah Ideas
 ## Only What Is Good and Beneficial for the Ummah
 
-**Gift to the Khalifah for societal islah** - we only develop and surface what strengthens the Ummah.
+**Ummah welfare and coordination infrastructure for societal islah** - we only develop and surface what strengthens the Ummah.
 
 **Purpose of this document:**  
 Capture ideas **only for what is good and beneficial for the Ummah** - dawah (calling to Allah and good), Islamic education, tarbiyah, community strengthening, moral reform, family, charity, and essential services that help Muslims live with dignity and focus on their deen.
 
 Nothing is included that weakens iman, promotes unnecessary dunya, or is not clearly a net positive for the Ummah.
 
-Taqdimah is a **gift** presented to the Khalifah for societal islah. We only put forward what is truly good.
+Taqdimah is a public-benefit system for societal islah. We only put forward what is truly good.
 
 ---
 
@@ -133,9 +133,9 @@ We will actively reject or remove anything that is not a net positive.
 
 ---
 
-## 7. Leadership / Khalifah Support Angle (Advanced)
+## 7. Leadership and Organization Support Angle (Advanced)
 
-These make the "gift to the Khalifah" concrete:
+These make the coordination mission concrete:
 
 - Aggregated, anonymized societal insight reports:
   - "Areas with highest demand for Islamic teachers"
@@ -196,7 +196,7 @@ These make the "gift to the Khalifah" concrete:
 **Remember the mission:**
 
 Taqdimah is not here to become the biggest "Islamic app."  
-It is a sincere offering - a tool placed in service of the Ummah and presented to the Khalifah - so that society becomes more just, more knowledgeable, more connected in good, and more pleasing to Allah.
+It is a sincere system placed in service of the Ummah so that society becomes more just, more knowledgeable, more connected in good, more economically resilient, and more pleasing to Allah.
 
 May Allah accept this effort and make it a means of barakah and islah. Ameen.
 

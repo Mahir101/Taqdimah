@@ -9,7 +9,7 @@
 
 **Decision:** Taqdimah will **only** facilitate, list, promote or connect to things, knowledge, services, and people that are clearly good and beneficial for the Ummah. We actively exclude anything that is not a net positive for faith, family, community, or dignified halal living.
 
-**Rationale:** This is the core of the gift to the Khalifah for societal islah. Nothing that weakens or distracts the Ummah is put out.
+**Rationale:** This is the core of Taqdimah as welfare and coordination infrastructure for societal islah. Nothing that weakens or distracts the Ummah is put out.
 
 ---
 
@@ -18,9 +18,9 @@
 **Date:** 2026-07-04  
 **Status:** Accepted
 
-**Decision:** Taqdimah is a pure gift infrastructure (discovery + trust + knowledge + coordination layers). Participants remain independent. We only surface beneficial providers and content. Taqdimah does not operate services or push anything non-beneficial.
+**Decision:** Taqdimah is public-benefit infrastructure (discovery + trust + knowledge + welfare + coordination layers). Participants remain independent. We only surface beneficial providers and content. Taqdimah does not operate services or push anything non-beneficial.
 
-**Rationale:** Preserves the purity of the offering. Focus is on real benefit to the Ummah, not volume or extraction.
+**Rationale:** Preserves the integrity and purity of the system. Focus is on real benefit to the Ummah, not volume or extraction.
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Decision:** Any support for the workers comes only from activity around things that are good and beneficial for the Ummah. Modest, transparent contributions from those who gain clear value. Free tier for knowledge seekers and small beneficial efforts is protected.
 
-**Rationale:** The gift must stay pure. Workers are sustained so they can serve the Ummah with excellence and without compromise.
+**Rationale:** The system must stay pure in purpose. Workers are sustained so they can serve the Ummah with excellence and without compromise.
 
 ---
 

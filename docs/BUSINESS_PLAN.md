@@ -1,8 +1,8 @@
-# Taqdimah : Sustenance Model - Workers Sustaining the Pure Gift to the Khalifah
+# Taqdimah : Sustainability Model - Workers Supporting Ummah Welfare Infrastructure
 
-**Version:** 1.1 (Reframed)  
-**Core Identity:** A gift (taqdimah) for the betterment of society - **only what is good for the Ummah** - offered in service to the Khalifah and the Ummah.  
-**Market entry:** Bangladesh → Global Muslim communities  
+**Version:** 1.2 (Reframed)  
+**Core Identity:** Islamic public-benefit infrastructure for the betterment of society - **only what is good for the Ummah** - serving tazkiyah, zakat/welfare coordination, trusted discovery, organization partnerships, and economic dignity.  
+**Market entry:** Bangladesh -> Global Muslim communities  
 
 **Strict rule:** We do not facilitate, promote, or build anything that is not beneficial for the Ummah.
 
@@ -10,13 +10,13 @@
 
 ## 1. Executive Summary
 
-Taqdimah is a **gift** to the Khalifah for the islah (betterment and reform) of society. It only provides trusted discovery and coordination for things that are genuinely good and beneficial - dawah, knowledge, community strength, family, and essential services that help the Ummah live with dignity and focus on deen.
+Taqdimah is welfare and coordination infrastructure for the islah (betterment and reform) of society. It only provides trusted discovery and coordination for things that are genuinely good and beneficial - dawah, knowledge, zakat/welfare support, organization partnerships, community strength, family, and essential services that help the Ummah live with dignity and focus on deen.
 
-The people who build, verify, operate, and improve this pure gift - the workers and team - require fair compensation to sustain their dedication. Any mechanisms exist only to keep the workers able to serve the Ummah with excellence and integrity.
+The people who build, verify, operate, and improve this system - the workers and team - require fair compensation to sustain their dedication. Any mechanisms exist only to keep the workers able to serve the Ummah with excellence and integrity.
 
 **Core principle:**
 
-> We only facilitate connections to things that are genuinely good and beneficial for the Ummah. The team maintaining this gift is compensated fairly from the value created, so they can continue serving the Ummah purely.
+> We only facilitate connections to things that are genuinely good and beneficial for the Ummah. The team maintaining this system is compensated fairly from the value created, so they can continue serving the Ummah with sincerity and integrity.
 
 **Year 1 goal:** Deliver real value in Bangladesh with 500+ verified participants (including strong Islamic ecosystem), 5,000+ MAU, meaningful dawah/education connections, and enough operational sustenance for the core team to continue the work full-time with integrity.
 
@@ -45,7 +45,7 @@ The people who build, verify, operate, and improve this pure gift - the workers 
 | GCC | High spending, expat discovery needs |
 | Europe / North America diaspora | Halal services, mosques, professionals |
 
-**Opportunity framing:** The Muslim Ummah represents a massive population in need of trusted coordination, knowledge, and beneficial connections for both dunya and deen. Taqdimah provides the infrastructure as a gift while generating enough value to sustain the dedicated workers who maintain it.
+**Opportunity framing:** The Muslim Ummah represents a massive population in need of trusted coordination, knowledge, zakat/welfare routing, organization partnerships, and beneficial connections for both dunya and deen. Taqdimah provides the infrastructure while generating enough value to sustain the dedicated workers who maintain it.
 
 ```mermaid
 flowchart LR
@@ -124,7 +124,7 @@ flowchart TB
 
 ## 4. How the Platform Sustains Its Workers (Sustenance Model)
 
-All mechanisms must be **transparent, clearly labeled, Shariah-compliant (no riba, no gharar, no deception), and primarily directed at fairly compensating the workers who build and operate this gift for the Ummah.** 
+All mechanisms must be **transparent, clearly labeled, Shariah-compliant (no riba, no gharar, no deception), and primarily directed at fairly compensating the workers who build and operate this infrastructure for the Ummah.** 
 
 The Ummah is the primary beneficiary. The workers are sustained so they can continue serving.
 
@@ -288,7 +288,7 @@ B2B data product. Must respect privacy and aggregate only.
 | Y2 | 50% | 25% | 25% | Growing team capacity |
 | Y3+ | Balanced mix | Focus on high-value facilitation | Strong institutional waqf-like support | Sustainable high-quality operation |
 
-**Note:** Numbers are directional. The real metric is "can the workers who maintain the gift continue full-time with excellence and integrity while serving the Ummah?"
+**Note:** Numbers are directional. The real metric is "can the workers who maintain the system continue full-time with excellence and integrity while serving the Ummah?"
 
 ---
 
@@ -483,7 +483,7 @@ flowchart LR
 
 ---
 
-## 12. 12-Month Milestones (Gift Delivery + Worker Sustenance)
+## 12. 12-Month Milestones (Infrastructure Delivery + Worker Sustainability)
 
 | Month | Milestone |
 |-------|-----------|
@@ -510,7 +510,7 @@ People and institutions will support (through subscriptions, featured visibility
 - **Trust & barakah** saves time, risk, and spiritual harm.
 - **Dawah, knowledge, and community tools** help individuals and families grow in faith.
 - **Fairness**: They see that money primarily goes to real workers keeping the platform excellent and accessible for everyone.
-- **Societal good**: Contributing to a tool that serves the Khalifah's responsibility of bettering society feels meaningful.
+- **Societal good**: Contributing to a tool that serves the Ummah's welfare, tazkiyah, and coordination feels meaningful.
 
 Taqdimah does not aim to extract wealth from the Ummah. It organizes existing beneficial activity and uses a portion of the value created to sustain the dedicated team serving the Ummah.
 

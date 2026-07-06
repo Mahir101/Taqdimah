@@ -266,7 +266,7 @@ npm install @supabase/supabase-js @supabase/ssr
 
 ---
 
-## Dawah & Islah Tasks (Gift to the Khalifah)
+## Dawah & Islah Tasks (Ummah Welfare and Coordination)
 
 These are critical to the reframed mission.
 

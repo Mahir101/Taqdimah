@@ -31,7 +31,7 @@ flowchart TB
         Admin[Admin + Scholar Review]
     end
 
-    subgraph Islah["Dawah & Islah Layer (Gift to Khalifah)"]
+    subgraph Islah["Dawah & Islah Layer (Ummah Welfare)"]
         Masjid[Masjid/Madrasa Tools]
         Scholar[Scholar & Da'ee Directory]
         Content[Knowledge & Content Hub]
@@ -340,7 +340,7 @@ In return they may receive better tools (more connections, simple analytics). Th
 - Always secondary to trust score and verification level.
 - Never allows money to override what is genuinely best for the person seeking help.
 
-Any such mechanism must itself be good for the Ummah - it helps sustain the people who keep the gift alive so everyone benefits.
+Any such mechanism must itself be good for the Ummah - it helps sustain the people who keep the system reliable so everyone benefits.
 
 ### F-024 : Institution Profiles
 
@@ -361,9 +361,9 @@ Any such mechanism must itself be good for the Ummah - it helps sustain the peop
 
 ---
 
-## Dawah, Education & Islah Features (Core to the Gift - Only Beneficial Things)
+## Dawah, Education & Islah Features (Core to Ummah Welfare - Only Beneficial Things)
 
-These features directly support the mission of Taqdimah as a gift to the Khalifah for the betterment of the Ummah. 
+These features directly support the mission of Taqdimah as welfare and coordination infrastructure for the betterment of the Ummah. 
 
 **Strict rule:** We only build and include features and content that are clearly good for the Ummah - that increase iman, knowledge, family strength, community bonds, or dignified living in a halal way. Nothing else is put out.
 

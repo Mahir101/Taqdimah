@@ -80,31 +80,31 @@ mindmap
 flowchart LR
     subgraph S1["R1–R3: SaaS Subscriptions"]
         direction TB
-        A1[Free: 0 BDT<br/>10 leads/mo]
-        A2[Pro: 999 BDT/mo<br/>unlimited leads + analytics]
-        A3[Business: 2499 BDT/mo<br/>featured rotation + API read]
+        A1["Free: 0 BDT<br/>10 leads/mo"]
+        A2["Pro: 999 BDT/mo<br/>unlimited leads + analytics"]
+        A3["Business: 2499 BDT/mo<br/>featured rotation + API read"]
     end
 
     subgraph S2["R4–R6: Visibility"]
         direction TB
-        B1[Featured slot<br/>1500–5000 BDT/mo]
-        B2[City homepage banner<br/>10000+ BDT/mo]
-        B3[Sponsored search<br/>15–30 BDT per click]
+        B1["Featured slot<br/>1500–5000 BDT/mo"]
+        B2["City homepage banner<br/>10000+ BDT/mo"]
+        B3["Sponsored search<br/>15–30 BDT per click"]
     end
 
     subgraph S3["R5 + R7–R8: Transaction Layer"]
         direction TB
-        C1[Pay per lead<br/>50–500 BDT]
-        C2[Booking commission<br/>5–12 percent]
-        C3[Escrow processing<br/>included in commission]
+        C1["Pay per lead<br/>50–500 BDT"]
+        C2["Booking commission<br/>5–12 percent"]
+        C3["Escrow processing<br/>included in commission"]
     end
 
     subgraph S4["R10–R14: Ecosystem"]
         direction TB
-        D1[Islamic bank referral<br/>fixed fee per account]
-        D2[Takaful referral<br/>per policy]
-        D3[Waqf campaign fee<br/>capped 2–5 percent]
-        D4[Enterprise API<br/>1200–6000 USD/yr]
+        D1["Islamic bank referral<br/>fixed fee per account"]
+        D2["Takaful referral<br/>per policy"]
+        D3["Waqf campaign fee<br/>capped 2–5 percent"]
+        D4["Enterprise API<br/>1200–6000 USD/yr"]
         D5[Insights reports<br/>B2B data product]
     end
 
@@ -521,7 +521,7 @@ quadrantChart
     Grab super app: [0.85, 0.6]
 ```
 
-**Taqdimah target quadrant:** High trust + moderate fair fees : not cheapest, not extractive.
+**Taqdimah target quadrant:** High trust + moderate fair fees (not the cheapest, not extractive).
 
 ---
 

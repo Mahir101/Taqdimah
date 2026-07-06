@@ -1,16 +1,16 @@
 # Taqdimah : Product Requirements Document (PRD)
 
-**Version:** 1.1 - Reframed as Gift  
-**Status:** Strategic direction for a public good offering  
+**Version:** 1.2 - Reframed as Welfare and Coordination Infrastructure  
+**Status:** Strategic direction for Islamic public-benefit infrastructure  
 **Last updated:** July 2026
 
 ---
 
 ## 1. Executive Summary
 
-**Taqdimah (التقديمة)** is a **gift** - an offering presented to the Khalifah for the betterment (islah) of society.
+**Taqdimah** is welfare and coordination infrastructure for the betterment (islah) of the Ummah.
 
-It is long-term digital infrastructure for the Muslim Ummah, built with the intention of strengthening society under righteous leadership. While the core mission is service and societal reform, the workers and team who build and operate Taqdimah are sustained through fair, transparent mechanisms so they can dedicate themselves fully to this gift.
+It is long-term Islamic public-benefit infrastructure for trusted discovery, zakat and welfare coordination, organization partnerships, conflict resolution, tazkiyah, and ethical economic development. While the core mission is service and societal reform, the workers and team who build and operate Taqdimah are sustained through fair, transparent mechanisms so they can dedicate themselves fully to the system.
 
 Taqdimah brings together:
 
@@ -23,9 +23,9 @@ into **one connected network of trust and benefit**.
 
 **Positioning statement:**
 
-> Taqdimah is a gift to the Khalifah : digital infrastructure that only facilitates what is genuinely good and beneficial for the Ummah. Offered for the islah (betterment) of society in both deen and dignified life. Workers who maintain the purity of this gift are supported fairly.
+> Taqdimah is Islamic public-benefit infrastructure that only facilitates what is genuinely good and beneficial for the Ummah. It supports islah in both deen and dignified life through trusted discovery, zakat and welfare coordination, organization partnerships, tazkiyah, and fair economic development. Workers who maintain the integrity of the system are supported fairly.
 
-**MVP goal (6 months):** Deliver foundational infrastructure in 2–3 Bangladesh cities with 500+ verified participants who offer things that are good for the Ummah, strong search, connection tools, and early dawah/education features. Success is measured by real benefit brought to the Ummah - increased access to beneficial knowledge, trusted essential services, and community strength.
+**MVP goal (6 months):** Deliver foundational infrastructure in 2–3 Bangladesh cities with 500+ verified participants who offer things that are good for the Ummah, strong search, connection tools, partner-organization profiles, early zakat/welfare intake, and early dawah/education features. Success is measured by real benefit brought to the Ummah - increased access to beneficial knowledge, trusted essential services, responsible welfare routing, and community strength.
 
 ---
 
@@ -63,9 +63,9 @@ into **one connected network of trust and benefit**.
 
 ## 3. Vision & Mission
 
-**Vision:** To be accepted as a sincere gift (taqdimah) to the Khalifah - a means by which society is strengthened through trust, knowledge, dawah, and beneficial coordination, so the Ummah may flourish in both dunya and deen.
+**Vision:** To become trusted Islamic welfare and coordination infrastructure through which society is strengthened by tazkiyah, trust, knowledge, dawah, zakat/welfare distribution, and beneficial coordination, so the Ummah may flourish in both dunya and deen.
 
-**Mission:** Build and operate digital infrastructure as an amanah. Connect the Ummah to trusted and beneficial people, services, knowledge, and institutions. Preserve independence of participants. Enable fair compensation for the workers who maintain this gift so they can serve the whole Ummah effectively. Prioritize islah (reform and betterment) in all features.
+**Mission:** Build and operate digital infrastructure as an amanah. Connect the Ummah to trusted and beneficial people, services, knowledge, organizations, welfare flows, and institutions. Preserve independence of participants. Enable fair compensation for the workers who maintain the system so they can serve the whole Ummah effectively. Prioritize tazkiyah and islah (reform and betterment) in all features.
 
 **What Taqdimah is NOT:**
 
@@ -77,10 +77,10 @@ into **one connected network of trust and benefit**.
 
 **What Taqdimah IS:**
 
-- A gift/offering (taqdimah) to the Khalifah and the Ummah - **only of what is good**
+- Welfare and coordination infrastructure for the Ummah - **only for what is good**
 - Discovery, verification, and trust layer (amanah of only beneficial things)
-- Coordination and knowledge infrastructure for dawah, tarbiyah, family, community, and essential dignified needs
-- A platform that sustains its workers fairly while keeping the offering pure
+- Coordination and knowledge infrastructure for dawah, tarbiyah, family, community, zakat/welfare, and essential dignified needs
+- A platform that sustains its workers fairly while keeping the system pure in purpose
 - A tool for real societal islah (spiritual, moral, and communal betterment) with uncompromising Shariah alignment
 
 ---
@@ -149,7 +149,7 @@ into **one connected network of trust and benefit**.
 2. **Amanah before scale** : Verification, truthfulness, and clear benefit to the Ummah come before any growth.
 3. **Independence & barakah** : Participants (scholars, masjids, beneficial providers) keep their identity and direct relationships.
 4. **Deen + dignified dunya** : Prioritize knowledge, dawah, tarbiyah, family, and community - while also enabling the essential trusted services Muslims need to live honorably.
-5. **Workers sustained fairly, without tainting the gift** : Any support for the team comes second to the purity of the offering.
+5. **Workers sustained fairly, without compromising the mission** : Any support for the team comes second to the purity and integrity of the system.
 6. **Transparency & minimal burden** : Everything is clear. We avoid burdening the needy or small community efforts.
 7. **Network effects for real islah** : Every connection should increase good - in iman, knowledge, family strength, or community capability.
 
@@ -250,7 +250,7 @@ flowchart LR
 
 ## 9. Category Taxonomy - Only Beneficial for the Ummah (Seed)
 
-We only include categories and providers that clearly support a strong, faithful, and dignified Ummah life. No frivolous or potentially harmful offerings.
+We only include categories and providers that clearly support a strong, faithful, and dignified Ummah life. No frivolous or potentially harmful listings.
 
 **Essential Services for Dignified Life:**
 - Home maintenance & repair (electricians, plumbers, AC, basic building work that keeps families secure)
@@ -297,7 +297,7 @@ Anything that does not clearly uplift the Ummah in deen or dignified dunya will 
 
 ---
 
-## 11. Success Metrics - Impact for the Ummah & the Khalifah + Worker Sustainability
+## 11. Success Metrics - Impact for the Ummah + Worker Sustainability
 
 ### 11.1 North star metrics (dual)
 
@@ -349,7 +349,7 @@ Anything that does not clearly uplift the Ummah in deen or dignified dunya will 
 | Chicken-and-egg (insufficient trusted supply) | High | Manual seeding with known righteous participants + mosque & community partnerships |
 | Erosion of trust | High | Extremely strict verification (L0–L4), slow growth over fast scale, public accountability |
 | Misuse for haram or deceptive purposes | High | Strong moderation, category guardrails, scholar involvement where relevant |
-| Perception that it is "just another app" or commercial | High | Consistent messaging as gift/amanah; no aggressive monetization language or practices |
+| Perception that it is "just another app" or commercial | High | Consistent messaging as amanah and public-benefit infrastructure; no aggressive monetization language or practices |
 | Dependency on single founder / sustainability | Medium | Design for handover to righteous stewards or waqf structure over time |
 | Political / leadership perception | Medium | Focus purely on benefit to the people; remain non-partisan and transparent |
 
@@ -359,7 +359,7 @@ Anything that does not clearly uplift the Ummah in deen or dignified dunya will 
 
 ```mermaid
 gantt
-    title Taqdimah - Delivery of the Gift
+    title Taqdimah - Delivery of Ummah Welfare Infrastructure
     dateFormat YYYY-MM
     section Phase 1 : Foundation of the Offering (MVP)
     Trusted Directory + Search + Profiles     :2026-07, 3M
@@ -397,7 +397,7 @@ gantt
 
 ## 17. Dawah & Islah Ideas (Additional Concepts for Societal Betterment)
 
-These expand the "gift to the Khalifah" mission beyond services into spiritual and communal reform. Many are captured as features in FEATURES.md.
+These expand the welfare and coordination mission beyond services into spiritual and communal reform. Many are captured as features in FEATURES.md.
 
 **High-priority dawah directions:**
 - Verified scholar/da'ee directory with credential strength (ijazah tracking)
@@ -411,7 +411,7 @@ These expand the "gift to the Khalifah" mission beyond services into spiritual a
 - AI-assisted (later) personalized deen growth paths ("how do I fix my salah consistency?")
 - Transparent waqf & sadaqah impact tracking
 
-**Leadership / Khalifah angle ideas:**
+**Leadership and organization support ideas:**
 - Aggregated, anonymized "State of the Ummah" signals (high demand areas for Islamic teachers, common social problems reported via needs, etc.)
 - Tools for verified institutions to coordinate large-scale good (disaster relief, education drives)
 - Optional reporting dashboards that righteous leadership could use to understand community needs without surveillance
