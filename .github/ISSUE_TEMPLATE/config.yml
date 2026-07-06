@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/Mahir101/Taqdimah/discussions
+    about: Use GitHub Discussions for open-ended questions, ideas, and community feedback.
+  - name: Security reports
+    url: https://github.com/Mahir101/Taqdimah/security/advisories/new
+    about: Do not open public issues for vulnerabilities. Use private vulnerability reporting or ask for maintainer contact.

@@ -1,0 +1,48 @@
+title: "[General] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Assalamu alaikum. Use this form for general questions, introductions, and open-ended community discussion.
+
+        Please do not share private welfare, zakat, family, legal, financial, identity, or security details.
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: What would you like to discuss?
+      placeholder: "Example: How should Taqdimah work with local masjids?"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of Taqdimah is this about?
+      options:
+        - General
+        - Tazkiyah and Islamic ethics
+        - Zakat and welfare
+        - Partner organizations
+        - Trusted discovery
+        - Conflict resolution
+        - Economic development
+        - Documentation
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Add context, examples, or questions.
+      placeholder: "Write the useful details here."
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have not included private welfare, zakat, family, legal, financial, identity, or security details.
+          required: true
+

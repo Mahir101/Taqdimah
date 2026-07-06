@@ -1,0 +1,65 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share ideas that are practical, beneficial, halal, and aligned with tazkiyah and public benefit.
+
+        Good ideas should reduce suffering, improve trust, strengthen communities, or help Islamic organizations coordinate.
+  - type: input
+    id: idea
+    attributes:
+      label: Idea
+      description: State the idea in one sentence.
+      placeholder: "Example: Add a referral workflow between masjids and zakat committees."
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What real problem does this solve?
+      placeholder: "Who is struggling today, and why does coordination fail?"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How could Taqdimah solve it simply?
+      placeholder: "Describe the workflow, users, and expected outcome."
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Main impact area
+      options:
+        - Zakat and welfare
+        - Tazkiyah and Islamic ethics
+        - Partner organizations
+        - Trusted discovery
+        - Conflict resolution
+        - Economic development
+        - Dawah and education
+        - Privacy and safety
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks or safeguards
+      description: What could go wrong, and how should the product protect people?
+      placeholder: "Consider privacy, dignity, burden on the poor, trust, and Shariah review."
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: This idea is intended to benefit the Ummah and avoid harm.
+          required: true
+        - label: I have not included private welfare, zakat, family, legal, financial, identity, or security details.
+          required: true
+
